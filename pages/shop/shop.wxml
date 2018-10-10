@@ -1,0 +1,80 @@
+<!--pages/shop/shop.wxml-->
+<view class='container'>
+  <image src=''></image>
+  <view class='title'>
+    <text class='big'>热销专区</text>
+    <view></view>
+    <text>HOT ZONE</text>
+  </view>
+  <view class='types'>
+    <view class='typesItem'>
+      <view class='bgBorder'>
+        <text>胸包专区</text>
+        <view></view>
+        <text>abceefg</text>
+      </view>
+    </view>
+    <view class='typesItem'>
+      <view class='bgBorder'>
+        <text>胸包专区</text>
+        <view></view>
+        <text>abceefg</text>
+      </view>
+    </view>
+    <view class='typesItem'>
+      <view class='bgBorder'>
+        <text>胸包专区</text>
+        <view></view>
+        <text>abceefg</text>
+      </view>
+    </view>
+  </view>
+  <view class='title'>
+    <text class='big'>热销专区</text>
+    <view></view>
+    <text>HOT ZONE</text>
+  </view>
+  <view class='list'>
+     <view class='out'>
+      <image src='../../images/hello.jpg' ></image>
+      <view >
+        <text>￥16.00</text>
+        <text class='buy'> 点击购买 </text>
+      </view>
+    </view>
+     <view class='out'>
+      <image src='../../images/hello.jpg' ></image>
+      <view >
+        <text>￥16.00</text>
+        <text class='buy'> 点击购买 </text>
+      </view>
+    </view>
+     <view class='out'>
+      <image src='../../images/hello.jpg' ></image>
+      <view >
+        <text>￥16.00</text>
+        <text class='buy'> 点击购买 </text>
+      </view>
+    </view>
+    <view class='out'>
+      <image src='../../images/hello.jpg' ></image>
+      <view >
+        <text>￥16.00</text>
+        <text class='buy'> 点击购买 </text>
+      </view>
+    </view>
+    <view class='out'>
+      <image src='../../images/hello.jpg' ></image>
+      <view >
+        <text>￥16.00</text>
+        <text class='buy'> 点击购买 </text>
+      </view>
+    </view>
+  </view>
+</view>
+
+
+
+
+
+
